@@ -14,7 +14,4 @@
 4. Admin can also Manage and Track Food Order and Delivery
 
 
-# 🎓 Access the Course
-[Click Here](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW) and Learn to develop a fully functional and dynamic **"Food Order System"** with PHP programming language and MySQL Database.
-
 
